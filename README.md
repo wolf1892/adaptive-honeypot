@@ -1,6 +1,6 @@
-# CVE decoys
+# Adaptive honeypot
 
-Personal touch on CVE decoys using .htaccess and PHP
+Personal touch on medium interaction honeypots using .htaccess and PHP
 
 Pretty straight forward
 
